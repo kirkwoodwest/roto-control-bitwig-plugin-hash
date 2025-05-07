@@ -1,7 +1,7 @@
 # roto-control-bitwig-plugin-hash
 A Very basic Bitwig Script to generate parameter id hashes for roto-control. based on roto v 0.1 beta
 
-1. Drop into your bitwig script folder.(not extension).
+1. Download the control.js Drop into your bitwig script folder. (this is a script not an extension!).
 2. load up script -> "Kirkwood West". -> "Plugin Data Hash"
 3. load and navigate your cursor to plugin of interest.
 4. Open up controller script console -> ctrl+enter -> "Show Control Script Console"
