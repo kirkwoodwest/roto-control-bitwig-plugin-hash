@@ -12,7 +12,7 @@ A Very basic Bitwig Script to generate parameter id hashes for roto-control. bas
 
 The parameter index and pid hash output is used by the roto-control parameter.
 
-This only reports plugin hashes, internal bitwig devices are likely incorrect. If you have more than 500 parameters, you'll need to somehow parse it into two lists. Feel free to do it and make a pull request.
+If you have more than 500 parameters, you'll need to somehow parse it into two seperate debug outputs somehow. Feel free to do it and make a pull request.
 
 This was made in an hour to help an artist wanting to manually edit their roto-control json. 
 Shout out to David Wohlfahrt. Check out their music! https://soundcloud.com/dwohlfahrt/
